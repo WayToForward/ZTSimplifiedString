@@ -1,4 +1,4 @@
-<h1 align="center"> Swift 4.0简化字符串相应操作 </h1>
+<h1 align="center"> Swift 4.0简化字符串相应操作(下标法...) </h1>
 
 ## 开发环境
 Mac OS 10.12+ / Xcode 9+ / Swift 4.0
